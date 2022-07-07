@@ -1,1 +1,12 @@
+title: RBQ University
+description: RBQ subject ranked first among all universities
+
 remote_theme: just-the-docs/just-the-docs
+
+search_enabled: false
+
+aux_links:
+  "RBQ University on GitHub":
+    - "https://github.com/just-the-docs/just-the-docs"
+aux_links_new_tab: false
+
